@@ -1,4 +1,4 @@
-# Online Trip Management System
+# makemytrip
 
 # Overview
 
