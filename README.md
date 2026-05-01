@@ -2,7 +2,7 @@
 
 # Overview
 
-The **Online Trip Management System** is a web-based application designed to simplify travel planning and booking processes. It allows users to search, book, and manage trips efficiently while providing administrators with tools to manage bookings, users, and services.
+The **MakeMyTrip** is a web-based application designed to simplify travel planning and booking processes. It allows users to search, book, and manage trips efficiently while providing administrators with tools to manage bookings, users, and services.
 
 This project is built using **Java Spring Boot**, following a structured backend architecture for handling business logic, APIs, and database interactions.
 
@@ -10,21 +10,21 @@ This project is built using **Java Spring Boot**, following a structured backend
 
 # Features
 
-# User Features
+## User Features
 
 * Search and browse available trips
 * Book trips and manage reservations
 * View booking history
 * Cancel bookings with refund logic (if implemented)
 
-# Admin Features
+## Admin Features
 
 * Manage trips and destinations
 * Handle user data
 * Monitor bookings and cancellations
 * Update travel details dynamically
 
-# System Features
+## System Features
 
 * RESTful API architecture
 * Secure data handling
@@ -45,7 +45,7 @@ This project is built using **Java Spring Boot**, following a structured backend
 # Project Structure
 
 ```
-OnlineTripManagementSystem/
+makemytrip/
 │
 ├── src/
 │   ├── main/
@@ -63,7 +63,7 @@ OnlineTripManagementSystem/
 
 # Installation & Setup
 
-#  Prerequisites
+## Prerequisites
 
 * Java (JDK 8 or above)
 * Maven
